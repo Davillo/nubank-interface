@@ -8,7 +8,7 @@ export default function Header(){
         <Container>
             <Top>
                 <Logo source={logo} />
-                <Title>Davillo</Title>
+                <Title>Bettina</Title>
             </Top>
             <Icon name="keyboard-arrow-down" size={20} color="#FFF"/>
         </Container>
